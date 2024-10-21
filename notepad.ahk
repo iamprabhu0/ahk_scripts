@@ -19,4 +19,4 @@
    Return result
 }
 
-^g:: Run Format('notepad.exe "{1}"', Explorer_GetSelection())
+^g:: Run Format('notepads.exe "{1}"', Explorer_GetSelection())
